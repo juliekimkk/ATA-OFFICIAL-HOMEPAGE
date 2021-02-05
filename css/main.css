@@ -1,0 +1,86 @@
+.ftco-section {
+  background-color: black;
+}
+
+.mb-4 {
+  color: #fff;
+  margin-top: 100px;
+}
+
+.playerName {
+  color: black;
+}
+
+.profileImg {
+  height: 600px;
+}
+
+.position mb-2 {
+  align-content: center;
+}
+
+.positionhover {
+  font-size: 20px;
+  justify-content: center;
+}
+
+.teamrecord {
+  display: flex;
+  font-size: 20px;
+  position: relative;
+  margin: 0 auto;
+  font-size: 1.2rem;
+}
+
+.teamrecord > ul {
+  margin: 100px 100px 200px 200px;
+  border: solid 2px #f3d319;
+  width: 700px;
+  padding: 0px;
+  text-align: center;
+}
+
+.teamrecord > ul :hover {
+  border: solid 3px #f3d319;
+}
+
+.teamrecord > ul > h4 {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 15px;
+  color: white;
+}
+
+.teamrecord > ul > li {
+  list-style: none;
+  position: relative;
+  color: #fff;
+  padding: 5px;
+  margin-bottom: 2px;
+}
+
+.underline {
+  border: solid 1px #f3d319;
+  width: 430px;
+  height: 1px;
+  margin-left: 130px;
+}
+
+.career {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+  position: relative;
+}
+
+.competitionRecord {
+  color: #fff;
+}
+
+.minibox {
+  background-color: #f3d319;
+}
+
+.conatctus {
+  color: black;
+}
