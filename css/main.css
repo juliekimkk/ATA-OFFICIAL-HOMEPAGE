@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 .ftco-section {
   background-color: black;
 }
@@ -60,10 +64,11 @@
 }
 
 .underline {
+  position: relative;
   border: solid 1px #f3d319;
-  width: 430px;
+  width: 420px;
   height: 1px;
-  margin-left: 130px;
+  margin: 0 auto;
 }
 
 .career {
@@ -83,4 +88,8 @@
 
 .conatctus {
   color: black;
+}
+
+ul > h4 {
+  color: #fff;
 }
