@@ -36,15 +36,18 @@ body {
   font-size: 1.2rem;
 }
 
-.teamrecord > ul {
+.yellowbox {
   margin: 100px 100px 200px 200px;
   border: solid 2px #f3d319;
   width: 700px;
   padding: 0px;
   text-align: center;
 }
+li {
+  list-style: none;
+}
 
-.teamrecord > ul :hover {
+.yellowbox :hover {
   border: solid 3px #f3d319;
 }
 
@@ -91,5 +94,15 @@ body {
 }
 
 ul > h4 {
+  color: #fff;
+}
+
+.googlemap {
+  position: relative;
+  display: flex;
+  margin-top: 100px;
+}
+
+.row > .text > .span {
   color: #fff;
 }
